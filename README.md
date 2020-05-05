@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/rodjek/rspec-puppet.svg?branch=master)](https://travis-ci.org/rodjek/rspec-puppet)
 [![Coverage Status](https://coveralls.io/repos/rodjek/rspec-puppet/badge.svg?branch=master)](https://coveralls.io/r/rodjek/rspec-puppet?branch=master)
 
+## this is a new string
+
 ## Installation
 
     gem install rspec-puppet
