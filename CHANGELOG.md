@@ -4,6 +4,9 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [2.7.8]
 
+this is new string
+this is another new string
+
 ### Fixed
  * Fix cross-platform testing for Puppet >= 6.9.0 when there is no `ipaddress6`
    fact defined.
