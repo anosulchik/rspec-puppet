@@ -7,8 +7,7 @@ project adheres to [Semantic Versioning](http://semver.org/).
 \[2\.7\.8\]
 -------------
 
-this is new string
-this is another new string
+тест 123
 
 ### Fixed
 
